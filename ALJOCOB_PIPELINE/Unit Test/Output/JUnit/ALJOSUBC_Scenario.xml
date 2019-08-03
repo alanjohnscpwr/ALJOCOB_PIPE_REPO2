@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 19.3.2.v20190211-1724_163?>
+<!--Topaz for Total Test 19.3.2.v20190211-1724_163 Mar 29, 2019 8:39:12 AM-->
+<testsuites>
+  <testsuite errors="0" failures="0" name="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00001: ALJOSUBCCase1" tests="3">
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00001: ALJOSUBCCase1" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00001: ALJOSUBCCase1" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00001: ALJOSUBCCase1" name="00003: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00002: ALJOSUBCCase2" tests="3">
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00002: ALJOSUBCCase2" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00002: ALJOSUBCCase2" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00002: ALJOSUBCCase2" name="00003: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00003: ALJOSUBCCase3" tests="3">
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00003: ALJOSUBCCase3" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00003: ALJOSUBCCase3" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00003: ALJOSUBCCase3" name="00003: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00004: ALJOSUBCCase4" tests="3">
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00004: ALJOSUBCCase4" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00004: ALJOSUBCCase4" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00004: ALJOSUBCCase4" name="00003: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00005: ALJOSUBCCase5" tests="3">
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00005: ALJOSUBCCase5" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00005: ALJOSUBCCase5" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00005: ALJOSUBCCase5" name="00003: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00006: ALJOSUBCCase6" tests="3">
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00006: ALJOSUBCCase6" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00006: ALJOSUBCCase6" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00006: ALJOSUBCCase6" name="00003: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00007: ALJOSUBCCase7" tests="3">
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00007: ALJOSUBCCase7" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00007: ALJOSUBCCase7" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00007: ALJOSUBCCase7" name="00003: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00008: ALJOSUBCCase8" tests="3">
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00008: ALJOSUBCCase8" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00008: ALJOSUBCCase8" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00008: ALJOSUBCCase8" name="00003: Check for COMM_TOTAL"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00009: ALJOSUBCCase9" tests="3">
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00009: ALJOSUBCCase9" name="00001: Check for EMP_TYPE"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00009: ALJOSUBCCase9" name="00002: Check for SALES_AMOUNT"/>
+    <testcase classname="ALJOCOB_PIPELINE.ALJOSUBC_Scenario.00009: ALJOSUBCCase9" name="00003: Check for COMM_TOTAL"/>
+  </testsuite>
+</testsuites>

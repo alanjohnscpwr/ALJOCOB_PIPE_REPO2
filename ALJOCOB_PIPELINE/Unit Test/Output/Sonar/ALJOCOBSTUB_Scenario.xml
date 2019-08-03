@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 19.5.1.v20190606-1245_92?>
+<!--Topaz for Total Test 19.5.1.v20190606-1245_92 24-Jul-2019 12:19:34-->
+<testExecutions version="1">
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\ALJOCOB_PIPELINE\Unit Test\Scenarios\ALJOCOBSTUB_Scenario.testscenario">
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.00001: Check for PARM_LTH"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.00002: Check for PARM_DATA"/>
+  </file>
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\ALJOCOB_PIPELINE\Unit Test\Stubs\ALJOCOB_RPTFILE_WRITE.stub">
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00001: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00002: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00003: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00004: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00005: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00006: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00007: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00008: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00009: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00010: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00011: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00012: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00013: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00014: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00015: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00016: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00017: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00018: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00019: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00020: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00021: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00022: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00023: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00001: ALJOCOBCase1.Stub: 'ALJOCOB_RPTFILE_WRITE'.00024: 'RPTFILE' assertion.RPTFILE"/>
+  </file>
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\ALJOCOB_PIPELINE\Unit Test\Scenarios\ALJOCOBSTUB_Scenario.testscenario">
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.00001: Check for PARM_LTH"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.00002: Check for PARM_DATA"/>
+  </file>
+  <file path="C:\Users\cpwr01\Compuware\Workbench\workspace\ALJOCOB_PIPELINE\Unit Test\Stubs\ALJOCOB_RPTFILE_WRITE.stub">
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00001: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00002: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00003: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00004: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00005: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00006: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00007: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00008: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00009: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00010: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00011: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00012: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00013: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00014: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00015: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00016: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00017: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00018: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00019: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00020: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00021: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00022: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00023: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="ALJOCOB_PIPELINE.ALJOCOBSTUB_Scenario.00002: ALJOCOBCase2.Stub: 'ALJOCOB_RPTFILE_WRITE'.00024: 'RPTFILE' assertion.RPTFILE"/>
+  </file>
+</testExecutions>
